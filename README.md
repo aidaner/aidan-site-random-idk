@@ -8,3 +8,5 @@ and ya that is it
 
 
 [page 2](https://aidaner.github.io/aidan-site-random-idk/page-2)
+
+[page 3](https://aidaner.github.io/aidan-site-random-idk/page-3)
